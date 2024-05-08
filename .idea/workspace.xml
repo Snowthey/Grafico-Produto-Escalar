@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f71e2c0-5466-48f3-a7dd-9fcb6f506489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complexidade_ProdutoEscalar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Grafico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProdutoEscalar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProdutoEscalarComplexidadeReduzida.java" afterDir="false" />
+    <list default="true" id="3f71e2c0-5466-48f3-a7dd-9fcb6f506489" name="Changes" comment="Grafico funcionando para ambos algoritimos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Snowthey&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Snowthey/Grafico-Produto-Escalar.git&quot;,
+    &quot;accountId&quot;: &quot;5e4e793d-64c2-4fe4-940c-ebd5c464b2ee&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -77,10 +80,25 @@
       <updated>1715190944452</updated>
       <workItem from="1715190945480" duration="434000" />
       <workItem from="1715191395263" duration="120000" />
+      <workItem from="1715191785567" duration="411000" />
+      <workItem from="1715192342117" duration="63000" />
     </task>
+    <task id="LOCAL-00001" summary="Grafico funcionando para ambos algoritimos">
+      <option name="closed" value="true" />
+      <created>1715191942762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715191942762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Grafico funcionando para ambos algoritimos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grafico funcionando para ambos algoritimos" />
   </component>
 </project>
