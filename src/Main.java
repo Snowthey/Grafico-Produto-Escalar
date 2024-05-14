@@ -7,9 +7,7 @@ public class Main {
         XYSeries seriesBase = new XYSeries("Algoritmo Base");
         XYSeries seriesComplexidadeReduzida = new XYSeries("Complexidade Reduzida");
 
-        int tamanhoMaximo = 1000;
-
-        for (int tamanho = 1; tamanho <= tamanhoMaximo; tamanho++) {
+        for (int tamanho = 100; tamanho < 1000; tamanho = tamanho + 100) {
             int[] vetor1 = new int[tamanho];
             int[] vetor2 = new int[tamanho];
 

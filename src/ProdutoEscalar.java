@@ -9,7 +9,6 @@ public class ProdutoEscalar {
 
         int resultado = 0;
 
-
         for (int i = 0; i < vetor1.length; i++) {
             resultado += vetor1[i] * vetor2[i];
         }

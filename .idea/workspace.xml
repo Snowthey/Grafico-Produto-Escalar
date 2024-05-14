@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f71e2c0-5466-48f3-a7dd-9fcb6f506489" name="Changes" comment="Grafico funcionando para ambos algoritimos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grafico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grafico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProdutoEscalarComplexidadeReduzida.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProdutoEscalarComplexidadeReduzida.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <workItem from="1715263310207" duration="20000" />
       <workItem from="1715455119420" duration="91000" />
       <workItem from="1715460867682" duration="191000" />
-      <workItem from="1715703293317" duration="1661000" />
+      <workItem from="1715703293317" duration="1970000" />
     </task>
     <task id="LOCAL-00001" summary="Grafico funcionando para ambos algoritimos">
       <option name="closed" value="true" />
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715192782740</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Grafico funcionando para ambos algoritimos">
+      <option name="closed" value="true" />
+      <created>1715705395984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715705395984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
